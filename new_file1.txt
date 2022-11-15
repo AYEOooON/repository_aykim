@@ -1,2 +1,6 @@
 Hello! My name is A Yeon Kim.
-Kumoh National Institute of Techmology
+KIT(Kumoh National Institute of Technology)
+
+Python
+C Programming
+Obhect-oriented programming
